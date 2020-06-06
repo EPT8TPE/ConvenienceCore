@@ -1,0 +1,33 @@
+name: ConvenienceCore
+version: 0.1.0
+api: 3.0.0
+description: A pocketmine plugin with convenient commands packed into one!
+main: TPE\ConvenienceCore\Main
+author: TPE
+
+commands:
+  fly:
+    description: "Activate or deactivate flight"
+
+  feed:
+    description: "Saturates the user"
+
+  heal:
+    description: "Restores max HP for the user"
+
+# Permissions
+permissions:
+  fly.allow:
+    description: Allows players to use the /fly command.
+    default: op
+
+  feed.allow:
+    default: op
+    description: Allows players to use the /feed command.
+
+  heal.allow:
+    default: op
+    description: Allows players to use the /heal command.
+
+
+
