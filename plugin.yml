@@ -1,0 +1,63 @@
+name: ConvenienceCore
+version: 1.0.0
+api: 3.0.0
+description: A pocketmine plugin with convenient commands packed into one!
+main: TPE\ConvenienceCore\Main
+author: TPE
+
+commands:
+  fly:
+    description: "Activate or deactivate flight"
+
+  feed:
+    description: "Saturates the user"
+
+  heal:
+    description: "Restores max HP for the user"
+
+  setlore:
+    description: "Allows the user to change the lore of the item in their hand"
+
+  rename:
+    description: "Changes the name of the item in the users hand to something of their choice"
+
+  clearinventory:
+    description: "Clears the users inventory"
+
+  enderchest:
+    aliases: ["ec"]
+    description: "Open your enderchest"
+
+# Permissions
+permissions:
+  fly.allow:
+    description: Allows players to use the /fly command.
+    default: op
+
+  feed.allow:
+    default: op
+    description: Allows players to use the /feed command.
+
+  heal.allow:
+    default: op
+    description: Allows players to use the /heal command.
+
+  setlore.allow:
+    default: op
+    description: Allows players to use the /setlore commmand.
+
+  rename.allow:
+    default: op
+    description: Allows players to use the /rename command.
+
+  clearinv.allow:
+    default: op
+    description: Allows players to use the /clearinventory command.
+
+  enderchest.allow:
+    default: op
+    description: Allows players to access their enderchest with the /ec or /enderchest command.
+
+
+
+
