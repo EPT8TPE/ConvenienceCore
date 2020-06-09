@@ -43,7 +43,7 @@ A pocketmine-mp plugin that implements a number of commands all into one plugin!
  
  ### Almost everthing in this plugin is configurable!
  
- # Set to true if you want a specific feature disabled.
+ ### Set to true if you want a specific feature disabled.
 
 fly-feature-disabled: false
 
@@ -59,7 +59,7 @@ clearinv-feature-disabled: false
 
 enderchest-feature-disabled: false
 
-# Messages sent to players if feature-disabled is set to true.
+### Messages sent to players if feature-disabled is set to true.
 
 setlore-feature-disabled-message: "§cThis command has been disabled!"
 
@@ -75,7 +75,7 @@ clearinv-feature-disabled-message: "§cThis command has been disabled!"
 
 enderchest-feature-disabled-message: "§cThis command has been disabled!"
 
-# Messages sent to player when certain commands have ran/tasks completed.
+### Messages sent to player when certain commands have ran/tasks completed.
 
 message-sent-to-player-on-flight-enable: "(§l!§r)§l§eFlight has been enabled!"
 
@@ -91,7 +91,7 @@ message-sent-to-player-when-rename: "(§l!§r)§b§lItem name changed successful
 
 message-sent-to-player-when-clearinv: "(§l!§r)§9§lInventory cleared successfully!"
 
-# Message sent to player if they lack the permissions to run a certain command.
+### Message sent to player if they lack the permissions to run a certain command.
 
 no-perms-message-feed: "§cYou do not have permission to use this command!"
 
@@ -107,21 +107,21 @@ no-perms-messages-clearinv: "§cYou do not have permission to use this command!"
 
 no-perms-message-enderchest: "§cYou do not have permission to use this command!"
 
-# Messages sent to player if their hands are empty and they run the commands below.
+### Messages sent to player if their hands are empty and they run the commands below.
 
 message-sent-to-player-when-hand-is-empty-setlore: "§cYou must hold an item while running this command!"
 
 message-sent-to-player-when-hand-is-empty-rename: "§cYou must hold an item while running this command!"
 
-# Set this to false if you want players to be able to fly during pvp.
+### Set this to false if you want players to be able to fly during pvp.
 
 flight-disabled-on-hit: true
 
-# Message sent to player if they attempt to fly during combat when flight disabled on hit is set to true.
+### Message sent to player if they attempt to fly during combat when flight disabled on hit is set to true.
 
 no-flight-during-combat-message: "(§l!§r)§cFlying during combat is not permitted!"
 
-# Text viewable player just above the hotbar as enderchest opens.
+### Text viewable to player just above the hotbar as enderchest opens.
 
 pop-up-message-enderchest: "§l§aOpening enderchest..."
 
