@@ -138,8 +138,8 @@ pop-up-message-enderchest: "§l§aOpening enderchest..."
 
 Contact me on discord: TPE#3107 for suggestions and any errors you find!
 
-[![](https://poggit.pmmp.io/shield.api/ConvenienceCore)](https://poggit.pmmp.io/p/ConvenienceCore)
-<a href="https://poggit.pmmp.io/p/ConvenienceCore"><img src="https://poggit.pmmp.io/shield.api/ConvenienceCore"></a>
+[![](https://poggit.pmmp.io/shield.state/ConvenienceCore)](https://poggit.pmmp.io/p/ConvenienceCore)
+<a href="https://poggit.pmmp.io/p/ConvenienceCore"><img src="https://poggit.pmmp.io/shield.state/ConvenienceCore"></a>
  
 
 
