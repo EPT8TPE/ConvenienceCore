@@ -12,6 +12,7 @@ A pocketmine-mp plugin that implements a number of commands all into one plugin!
 
 ## Permissions:
   fly.allow:
+  
     description: Allows players to use the /fly command.
     default: op
 
