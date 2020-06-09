@@ -11,32 +11,39 @@ A pocketmine-mp plugin that implements a number of commands all into one plugin!
 - /rename
 
 ## Permissions:
+
   fly.allow:
   
     description: Allows players to use the /fly command.
     default: op
 
   feed.allow:
+  
     default: op
     description: Allows players to use the /feed command.
 
   heal.allow:
+  
     default: op
     description: Allows players to use the /heal command.
 
   setlore.allow:
+  
     default: op
     description: Allows players to use the /setlore commmand.
 
   rename.allow:
+  
     default: op
     description: Allows players to use the /rename command.
 
   clearinv.allow:
+  
     default: op
     description: Allows players to use the /clearinventory command.
 
   enderchest.allow:
+  
     default: op
     description: Allows players to access their enderchest with the /ec or /enderchest command.
     
