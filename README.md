@@ -137,6 +137,9 @@ pop-up-message-enderchest: "§l§aOpening enderchest..."
 - If flight-disabled-on-hit is set to true and a player hits another player, their flight will be disabled, however in order to reactivate flight they have to run the command /fly twice, I know this is bugged and am working on it which is why I have given you the choice to disable all the features of thee plugin :).
 
 Contact me on discord: TPE#3107 for suggestions and any errors you find!
+
+[![](https://poggit.pmmp.io/shield.api/ConvenienceCore)](https://poggit.pmmp.io/p/ConvenienceCore)
+<a href="https://poggit.pmmp.io/p/ConvenienceCore"><img src="https://poggit.pmmp.io/shield.api/ConvenienceCore"></a>
  
 
 
